@@ -56,7 +56,7 @@
 </head>
 <body style="justify-items: center">
     <h2>Enter information in form</h2>
-    <form action="${pageContext.request.contextPath}/registration-form" name="formDangKy" method="GET">
+    <form action="registration-form" name="formDangKy" method="GET">
         <table>
             <tr>
                 <td>First name</td>
